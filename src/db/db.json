@@ -1,19 +1,14 @@
 {
-  "employees": [
+  "data": [
     {
       "employees": [
         {
           "id": 1,
-          "name": "Pankaj",
+          "name": "hulkar",
           "job":"doctor",
           "salary": "10000"
-        },
-        {
-          "name": "David",
-          "job":"doctor",
-          "salary": "5000",
-          "id": 2
         }
+        
       ]
     }
   ]
